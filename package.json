@@ -1,0 +1,27 @@
+{
+  "name": "tpl.js",
+  "version": "0.1.0",
+  "description": "Parallel programming in JavaScript with opt-in scaling across threads",
+  "main": "./lib/tpl.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronpowell/tpl.js"
+  },
+  "keywords": [
+    "parallel"
+  ],
+  "author": "Aaron Powell <me@aaron-powell.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronpowell/tpl.js/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
